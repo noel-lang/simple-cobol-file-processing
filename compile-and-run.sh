@@ -1,0 +1,1 @@
+clear && cobc -x stundensatz.cbl && ./stundensatz
