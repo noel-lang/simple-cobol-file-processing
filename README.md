@@ -4,5 +4,6 @@ Dieses Projekt zeigt beispielhaft auf, wie einfacher COBOL Code aussehen kann. D
 [![Thumbnail des Videos](https://img.youtube.com/vi/d4jHKp2dego/0.jpg)](https://www.youtube.com/watch?v=d4jHKp2dego)
 
 ## Funktionsweise
+![Funktionsweise](http://i.epvpimg.com/LuKZdab.png)
 
 ## Lokale Einrichtung
