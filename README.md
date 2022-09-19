@@ -4,6 +4,6 @@ Dieses Projekt zeigt beispielhaft auf, wie einfacher COBOL Code aussehen kann. D
 [![Thumbnail des Videos](https://img.youtube.com/vi/d4jHKp2dego/0.jpg)](https://www.youtube.com/watch?v=d4jHKp2dego)
 
 ## Funktionsweise
-<img src="http://i.epvpimg.com/LuKZdab.png" data-canonical-src="http://i.epvpimg.com/LuKZdab.png" width="200" />
+<img src="http://i.epvpimg.com/LuKZdab.png" data-canonical-src="http://i.epvpimg.com/LuKZdab.png" width="500" />
 
 ## Lokale Einrichtung
